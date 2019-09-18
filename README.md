@@ -1,8 +1,8 @@
 # Aneesha_git
 Defective Interface:
+![](defective.gif)
 
-
-New Design
+New Design:
 ![](NewDesign_500_500.gif)
 
 1. Tool Used: Axure 
