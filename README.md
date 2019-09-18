@@ -5,7 +5,6 @@ Defective Interface:
 New Design:
 ![](NewDesign_500_500.gif)
 
-
 Website Link : https://dt8e06.axshare.com
 
 -> primary function of an elevator implemented?
