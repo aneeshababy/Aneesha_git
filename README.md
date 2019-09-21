@@ -16,6 +16,7 @@ d) Buttons are made in circle shape as we humans have tendency to press buttons 
 -> Visibility of system status?
 yes.
 
+
 -> Match between system and the real world?
 Only Numbers and common notations like 'G' , 'P' used
 
